@@ -1,0 +1,7 @@
+black
+tensorboard
+torch-tb-profiler
+jsonpickle
+pytest
+opencv-python
+matplotlib

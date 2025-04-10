@@ -1,0 +1,17 @@
+torch>=2.0
+torchvision
+torchaudio
+torchio
+SimpleITK
+transformers>=4.30
+datasets>=1.8
+peft
+accelerate
+evaluate
+loralib
+monai
+scipy
+tensorboard
+timm
+einops
+torch_tb_profiler
